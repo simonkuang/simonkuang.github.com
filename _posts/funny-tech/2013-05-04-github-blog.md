@@ -12,7 +12,6 @@ description: 用标记语言来写文档，其实是一件很理所当然、很�
 
 离开帝都了，学习的氛围没有那么浓，一味get low反而显得不合群，不如把内里的知识吐出来，帮助大家一起成长。
 
-
 [github]: http://github.com "Github"
 [markdown]: http://wowubuntu.com/markdown/ "Markdown 中文语法文档"
 [Biao Li]: http://weibo.com/ttigerli "Biao Li"

@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="index-artical">
     <ul class="index-left">
-    {% for post in site.categories.blog %}
+    {% for post in site.categories.funny-tech %}
         <li>
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
@@ -16,7 +16,7 @@ layout: page
     <ul class="index-mid"> </ul>
 
     <ul class="index-right">
-    {% for post in site.categories.opinion%}
+    {% for post in site.categories.zen %}
         <li>
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>

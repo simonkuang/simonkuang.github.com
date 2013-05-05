@@ -3,16 +3,16 @@ auto:             true
 markdown:         rdiscount
 pygments:         true
 paginate:         10
-permalink:        /:year/:month/:day/:title
+permalink:        /:year-:month-:day/:title
 
-title:            simonkuang.com
+title:            SimonKuang.com
 url:              http://simonkuang.com
 feed:             /atom.xml
 author:
-  name:         Simon Kuang
-  twitter:      twitter.com/simonkuang
+    name:           Simon Kuang
+    twitter:        twitter.com/simonkuang
 description:      "Simon Kuang\'s Blog"
 author_info:      <a href="http://simonkuang.com/about">simonkuang</a>
 
 copyright:
-  - Design by <a href="http://simonkuang.com/about" title="Simon Kuang" target="_blank">Simon Kuang</a> &copy; 2013
+    - Rights Reserved by <a href="http://simonkuang.com/about" title="Simon Kuang" target="_blank">Simon Kuang</a> &copy; 2013
